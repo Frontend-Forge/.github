@@ -17,21 +17,7 @@ Welcome to **FrontendForge**, an open-source platform designed to help frontend 
 ## 📥 Contribute Questions
 Want to add your own questions? Follow these steps:
 
-1. **Fork** the [FrontendForge Questions Repository](https://github.com/your-repo/frontendforge-questions).
-2. Add a new question in the `questions` directory following this format:
-
-```json
-{
-  "title": "Create a Responsive Navbar",
-  "description": "Build a responsive navbar that collapses into a hamburger menu on small screens.",
-  "difficulty": "Medium",
-  "tags": ["HTML", "CSS", "JavaScript", "Responsive Design"],
-  "starter_code": "<!-- Provide a basic HTML template here -->"
-}
-```
-
-3. Create a **Pull Request (PR)** with your changes.
-4. Once reviewed, your question will be added to FrontendForge!
+[Frontend Forge Questions Repository](https://github.com/Frontend-Forge/questions)
 
 ## 📦 Installation (For Local Development)
 Clone the project and install dependencies:
@@ -51,9 +37,5 @@ npm start
 
 ## 🤝 Contributing
 We welcome contributions from the community! Feel free to submit issues, feature requests, or pull requests.
-
-## 📄 License
-This project is licensed under the **MIT License**.
-
 ---
 ⭐ **Star this repo** if you find it useful! Let's build an awesome frontend coding platform together. 🚀
